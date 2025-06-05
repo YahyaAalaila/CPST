@@ -1,3 +1,9 @@
 dgp_env/
 Results/
 dataset/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+viz_scatter_fade_multi/
+results/
