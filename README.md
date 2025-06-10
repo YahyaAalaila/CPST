@@ -36,9 +36,8 @@ Parameters and intensity options are stored in YAML files under `config/` or `ex
 
 Generated events can be stored as pickles or parquet files and visualised with the helpers in `visualisation/utils.py`.
 
-For a list of potential improvements and project notes see [`docs/REPO_REVIEW.md`](docs/REPO_REVIEW.md).
-=======
-Only a minimal README was previously provided.  Many files are still stubs or very
+
+Many files are still stubs or very
 lightweight, but the general idea is to keep the generator modular so different
 backgrounds or kernels can be swapped in via configuration.
 
